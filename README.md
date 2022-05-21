@@ -1,2 +1,2 @@
 # GAMES202_HW
- Learning CG
+ Followed course Games202
